@@ -7,17 +7,17 @@ A beginner-friendly, menu-driven Natural Language Processing (NLP) app built usi
 📖 Named Entity Recognition (NER) (via finetuned-gpt-neox-20b)
 🌐 Language Detection (via python-langdetect)
 
-1. Project Objective
+🙄 Project Objective
 
-To build a simple and interactive command-line application that demonstrates how to:
+1.To build a simple and interactive command-line application that demonstrates how to:
 
-Integrate with a third-party NLP API
+2.Integrate with a third-party NLP API
 
-Implement authentication system (register/login)
+3.Implement authentication system (register/login)
 
-Perform basic NLP tasks (sentiment, NER, language detection)
+4.Perform basic NLP tasks (sentiment, NER, language detection)
 
-Use Python OOP and structure a beginner-friendly NLP workflow
+5.Use Python OOP and structure a beginner-friendly NLP workflow
 
 Features
 
@@ -46,4 +46,10 @@ This project is open source and free to use under the MIT license.
 
 Author
 Harshit Gupta
-LInkedin https://www.linkedin.com/in/harshit-gupta-b9553335a/ | GitHub https://github.com/Harshit-80989
+
+## 🔗 Connect with Me
+
+- 🌐 [Portfolio](https://harshit-80989.github.io/portfolio/)
+- 🧠 [GitHub](https://github.com/Harshit-80989)
+- 💼 [LinkedIn](https://www.linkedin.com/in/harshit-80989/)
+
