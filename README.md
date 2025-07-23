@@ -29,7 +29,7 @@ Features
 How to Run ⚡
 
 1. Clone the Repository
-   git clone https://github.com/yourusername/nlp-console-app.gitcd nlp-console-app
+   git clone https://github.com/Harshit-80989/nlp-console-app.gitcd nlp-console-app
 
 2. Install Dependencies
    pip install -r requirements.txt
